@@ -183,7 +183,7 @@
         <dependency>
             <groupId>com.github.javaparser</groupId>
             <artifactId>javaparser-core</artifactId>
-            <version>3.4.4</version>
+            <version>3.22.1</version>
         </dependency>
         <!-- Swagger2核心包 -->
         <dependency>
